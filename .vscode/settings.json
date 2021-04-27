@@ -1,0 +1,8 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "worker.h": "c",
+        "manager.h": "c",
+        "linked_list.h": "c"
+    }
+}
